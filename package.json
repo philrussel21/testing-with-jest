@@ -1,0 +1,27 @@
+{
+	"name": "testingWithJest",
+	"version": "1.0.0",
+	"description": "<!-- Testing -->",
+	"main": "app.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/philrussel21/testing-with-jest.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/philrussel21/testing-with-jest/issues"
+	},
+	"homepage": "https://github.com/philrussel21/testing-with-jest#readme",
+	"devDependencies": {
+		"jest": "^26.4.2",
+		"supertest": "^5.0.0"
+	},
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
